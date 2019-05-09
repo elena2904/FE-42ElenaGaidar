@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:/contacts.html
+
+User-agent: Googlebot
+Allow: https://my-site/company
